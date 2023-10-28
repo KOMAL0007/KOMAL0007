@@ -2,7 +2,8 @@
 - 👀 I’m interested in getting a job.
   🌱 I’m currently learning data analysis.
 - 💞️ I’m looking to collaborate on ...
-- 📫 E-mail id= komal@cme.christuniversity.in
+- 📫 E-mail id= komalkundu6703@gmail.com
+- 
 - 
 
 <!---
