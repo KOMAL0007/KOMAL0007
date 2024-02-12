@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @KOMAL0007
+- I'm a student pursuing B.Sc. in CS.
 
 
   
