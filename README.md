@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KOMAL0007
-- 👀 I’m interested in getting a job.
-  🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on ...
+
+
   
 - 
 - 
